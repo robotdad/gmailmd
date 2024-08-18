@@ -1,0 +1,7 @@
+BeautifulSoup4
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+html2text
+python-dotenv
+tldextract
